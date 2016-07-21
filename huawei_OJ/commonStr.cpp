@@ -1,0 +1,1 @@
+#include <iostream>//#include <>using namespace std;int getCommonStrLength(char* pFirstStr,char *pSecondStr);int main(){        return 0;}int getCommonStrLength(char *pFirstStr,char *pSecondStr){    if(NULL==pFirstStr || NULL==pSecondStr)        return;    int MAX=0;    int cnt=0;    int i=0;j=0;    while(pFirstStr[i]!='\0' && pSecondStr[j]!='\0'){        

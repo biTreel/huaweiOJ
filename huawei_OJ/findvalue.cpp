@@ -1,0 +1,1 @@
+#include <iostream>using namespace std;bool calculate(string inputStr);int getResult();int main(){    return 0;}bool calculate(string inputStr){    bool flag=false;

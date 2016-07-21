@@ -1,0 +1,1 @@
+/* * Author: biTree * Date: July,1,2016 */#include <iostream>using namespace std;int main(){    int n;    cin>>n;    for(int i=0;i!=n;++i)        cout<<"A"<<"B"<<"C"<<"D";    cout<<endl;    return 0;}
